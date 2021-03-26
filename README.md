@@ -2,11 +2,13 @@
 
 # shell-scripting
 1.She-bang & comments
-2.Printing
-3.Variables
-4.Functions
-5.Misc(Exit status & Redirectories & quotes)
-6.Conditions
-7.Loops
+2.Input(read and special variables)
+3.Printing
+4.Variables 
+5.Functions
+6.Misc(Exit status & Redirectories & quotes)
+7.conditions
+8.Loops
+
 
 # project setup using Scripting
